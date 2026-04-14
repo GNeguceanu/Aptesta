@@ -1,0 +1,4 @@
+﻿import anchorpoint
+
+ui = anchorpoint.UI()
+ui.show_info("Test Notification", "Notifaction XXX")

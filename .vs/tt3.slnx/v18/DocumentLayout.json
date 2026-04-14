@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\tt3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\tt3\\.ap\\actions\\notify_gneguceanu.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.ap\\actions\\notify_gneguceanu.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\tt3\\.ap\\actions\\hook_custom_notification.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.ap\\actions\\hook_custom_notification.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\tt3\\.ap\\actions\\notify_team.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.ap\\actions\\notify_team.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\tt3\\.ap\\actions\\list_project_members.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.ap\\actions\\list_project_members.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\tt3\\.ap\\actions\\hook_custom_notification.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.ap\\actions\\hook_custom_notification.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\tt3\\.github\\copilot-instructions.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.github\\copilot-instructions.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\tt3\\.ap\\actions\\notify_team.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.ap\\actions\\notify_team.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\tt3\\.ap\\actions\\notify_custom.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.ap\\actions\\notify_custom.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\tt3\\.ap\\actions\\notify_gneguceanu.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.ap\\actions\\notify_gneguceanu.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\tt3\\.ap\\actions\\list_project_members.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.ap\\actions\\list_project_members.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\tt3\\.ap\\actions\\notify_custom.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.ap\\actions\\notify_custom.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\tt3\\.ap\\actions\\test_notification.py||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.ap\\actions\\test_notification.py||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Repos\\tt3\\.ap\\actions\\test_notification.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.ap\\actions\\test_notification.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "notify_custom.yaml",
+              "DocumentMoniker": "C:\\Repos\\tt3\\.ap\\actions\\notify_custom.yaml",
+              "RelativeDocumentMoniker": ".ap\\actions\\notify_custom.yaml",
+              "ToolTip": "C:\\Repos\\tt3\\.ap\\actions\\notify_custom.yaml",
+              "RelativeToolTip": ".ap\\actions\\notify_custom.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-24T10:00:48.627Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "notify_team.yaml",
+              "DocumentMoniker": "C:\\Repos\\tt3\\.ap\\actions\\notify_team.yaml",
+              "RelativeDocumentMoniker": ".ap\\actions\\notify_team.yaml",
+              "ToolTip": "C:\\Repos\\tt3\\.ap\\actions\\notify_team.yaml",
+              "RelativeToolTip": ".ap\\actions\\notify_team.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-24T09:48:34.669Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "test_notification.py",
+              "DocumentMoniker": "C:\\Repos\\tt3\\.ap\\actions\\test_notification.py",
+              "RelativeDocumentMoniker": ".ap\\actions\\test_notification.py",
+              "ToolTip": "C:\\Repos\\tt3\\.ap\\actions\\test_notification.py",
+              "RelativeToolTip": ".ap\\actions\\test_notification.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-24T15:20:59.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "notify_team.py",
+              "DocumentMoniker": "C:\\Repos\\tt3\\.ap\\actions\\notify_team.py",
+              "RelativeDocumentMoniker": ".ap\\actions\\notify_team.py",
+              "ToolTip": "C:\\Repos\\tt3\\.ap\\actions\\notify_team.py",
+              "RelativeToolTip": ".ap\\actions\\notify_team.py",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-24T15:20:59.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "hook_custom_notification.yaml",
+              "DocumentMoniker": "C:\\Repos\\tt3\\.ap\\actions\\hook_custom_notification.yaml",
+              "RelativeDocumentMoniker": ".ap\\actions\\hook_custom_notification.yaml",
+              "ToolTip": "C:\\Repos\\tt3\\.ap\\actions\\hook_custom_notification.yaml",
+              "RelativeToolTip": ".ap\\actions\\hook_custom_notification.yaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-24T15:20:59.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "notify_gneguceanu.py",
+              "DocumentMoniker": "C:\\Repos\\tt3\\.ap\\actions\\notify_gneguceanu.py",
+              "RelativeDocumentMoniker": ".ap\\actions\\notify_gneguceanu.py",
+              "ToolTip": "C:\\Repos\\tt3\\.ap\\actions\\notify_gneguceanu.py",
+              "RelativeToolTip": ".ap\\actions\\notify_gneguceanu.py",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-24T10:06:41.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "test_notification.yaml",
+              "DocumentMoniker": "C:\\Repos\\tt3\\.ap\\actions\\test_notification.yaml",
+              "RelativeDocumentMoniker": ".ap\\actions\\test_notification.yaml",
+              "ToolTip": "C:\\Repos\\tt3\\.ap\\actions\\test_notification.yaml",
+              "RelativeToolTip": ".ap\\actions\\test_notification.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-24T15:20:59.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "notify_custom.py",
+              "DocumentMoniker": "C:\\Repos\\tt3\\.ap\\actions\\notify_custom.py",
+              "RelativeDocumentMoniker": ".ap\\actions\\notify_custom.py",
+              "ToolTip": "C:\\Repos\\tt3\\.ap\\actions\\notify_custom.py",
+              "RelativeToolTip": ".ap\\actions\\notify_custom.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-24T15:20:59.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "list_project_members.yaml",
+              "DocumentMoniker": "C:\\Repos\\tt3\\.ap\\actions\\list_project_members.yaml",
+              "RelativeDocumentMoniker": ".ap\\actions\\list_project_members.yaml",
+              "ToolTip": "C:\\Repos\\tt3\\.ap\\actions\\list_project_members.yaml",
+              "RelativeToolTip": ".ap\\actions\\list_project_members.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-24T15:20:59.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "notify_gneguceanu.yaml",
+              "DocumentMoniker": "C:\\Repos\\tt3\\.ap\\actions\\notify_gneguceanu.yaml",
+              "RelativeDocumentMoniker": ".ap\\actions\\notify_gneguceanu.yaml",
+              "ToolTip": "C:\\Repos\\tt3\\.ap\\actions\\notify_gneguceanu.yaml",
+              "RelativeToolTip": ".ap\\actions\\notify_gneguceanu.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-03-24T15:20:59.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "hook_custom_notification.py",
+              "DocumentMoniker": "C:\\Repos\\tt3\\.ap\\actions\\hook_custom_notification.py",
+              "RelativeDocumentMoniker": ".ap\\actions\\hook_custom_notification.py",
+              "ToolTip": "C:\\Repos\\tt3\\.ap\\actions\\hook_custom_notification.py",
+              "RelativeToolTip": ".ap\\actions\\hook_custom_notification.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-24T14:30:27.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "copilot-instructions.md",
+              "DocumentMoniker": "C:\\Repos\\tt3\\.github\\copilot-instructions.md",
+              "RelativeDocumentMoniker": ".github\\copilot-instructions.md",
+              "ToolTip": "C:\\Repos\\tt3\\.github\\copilot-instructions.md",
+              "RelativeToolTip": ".github\\copilot-instructions.md",
+              "ViewState": "AgIAAGoGAAAAAAAAAAArwIUGAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-03-24T11:10:22.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "list_project_members.py",
+              "DocumentMoniker": "C:\\Repos\\tt3\\.ap\\actions\\list_project_members.py",
+              "RelativeDocumentMoniker": ".ap\\actions\\list_project_members.py",
+              "ToolTip": "C:\\Repos\\tt3\\.ap\\actions\\list_project_members.py",
+              "RelativeToolTip": ".ap\\actions\\list_project_members.py",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-24T10:08:34.07Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

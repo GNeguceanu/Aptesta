@@ -2,3 +2,11 @@ big.json filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 *.webp filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
+*.db filter=lfs diff=lfs merge=lfs -text
+*.sqlite filter=lfs diff=lfs merge=lfs -text
+*.pyc filter=lfs diff=lfs merge=lfs -text
+*.vsidx filter=lfs diff=lfs merge=lfs -text
+*.mpack filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+.vs/tt3.slnx/v18/.wsuo filter=lfs diff=lfs merge=lfs -text
+.vs/tt3.slnx/copilot-chat/165c37be/sessions/f33ddba4-7c7b-4ef6-a284-dd2a211a583c filter=lfs diff=lfs merge=lfs -text
